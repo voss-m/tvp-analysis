@@ -1,4 +1,4 @@
-#Analysis of the news of Polish National Television
+# Analysis of the news of Polish National Television
 The main goal of this project is to present the current state of the news on Polish National Television. Based on the subtitles provided by the provider text mining techniques will be conducted. During the presentation I would like to present:
 - the process of data collection
 - text mining results
